@@ -43,7 +43,7 @@ runs:
         [[d1_databases]]
         binding = "DB"
         database_name = "rin"
-        database_id = "local"
+        database_id = "5e848834-ef10-47e7-9ee0-a35400a6b5c4"
 
         [[queues.producers]]
         binding = "TASK_QUEUE"
